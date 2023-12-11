@@ -1,0 +1,16 @@
+{
+  "name": "qdrant-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@qdrant/js-client-rest": "^1.7.0",
+    "@qdrant/qdrant-js": "^1.7.0"
+  }
+}
